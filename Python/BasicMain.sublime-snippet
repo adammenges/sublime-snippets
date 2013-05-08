@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+"""
+Module docstring.
+
+This serves as a long usage message.
+"""
+
+import sys
+import getopt
+
+def main():
+	${1:pass}
+
+if __name__ == "__main__":
+    main()
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>basicmain</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
