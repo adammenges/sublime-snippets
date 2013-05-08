@@ -8,6 +8,7 @@ This serves as a long usage message.
 
 import sys
 import getopt
+import os
 
 def main():
 	${1:pass}
